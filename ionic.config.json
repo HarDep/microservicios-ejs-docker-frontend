@@ -1,0 +1,7 @@
+{
+  "name": "react-microservicios",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
